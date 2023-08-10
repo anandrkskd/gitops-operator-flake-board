@@ -24,4 +24,4 @@ jobs:
           git config user.email github-actions@github.com
           git add output/flake-stats.md
           git commit -m "update flake-stats.md"
-          git push
+          git push -f
