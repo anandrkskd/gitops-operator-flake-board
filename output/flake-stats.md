@@ -2,7 +2,7 @@
 ## FLAKY TESTS: Failed test scenarios in past 14 days
 | Failure Score<sup>*</sup> | Failures | Test Name | Last Seen | PR List and Logs 
 |---|---|---|---|---|
-| 40 | 2 | 1-052_validate_rolebinding_number  |  | 2: [#609](https://github.com/redhat-developer/gitops-operator/pull//609)<sup>[1](https://storage.googleapis.com/origin-ci-test/pr-logs/pull/redhat-developer_gitops-operator/609/pull-ci-redhat-developer-gitops-operator-master-v4.14-kuttl-parallel/1711602143200284672/build-log.txt)</sup> [#607](https://github.com/redhat-developer/gitops-operator/pull//607)<sup>[1](https://storage.googleapis.com/origin-ci-test/pr-logs/pull/redhat-developer_gitops-operator/607/pull-ci-redhat-developer-gitops-operator-master-v4.14-kuttl-parallel/1711667090965925888/build-log.txt)</sup> 
+| 60 | 3 | 1-062_validate_extra_config  |  | 2: [#611](https://github.com/redhat-developer/gitops-operator/pull//611)<sup>[1](https://storage.googleapis.com/origin-ci-test/pr-logs/pull/redhat-developer_gitops-operator/611/pull-ci-redhat-developer-gitops-operator-master-v4.13-kuttl-parallel/1717025876928892928/build-log.txt), [2](https://storage.googleapis.com/origin-ci-test/pr-logs/pull/redhat-developer_gitops-operator/611/pull-ci-redhat-developer-gitops-operator-master-v4.13-kuttl-parallel/1716942103168159744/build-log.txt)</sup> [#607](https://github.com/redhat-developer/gitops-operator/pull//607)<sup>[1](https://storage.googleapis.com/origin-ci-test/pr-logs/pull/redhat-developer_gitops-operator/607/pull-ci-redhat-developer-gitops-operator-master-v4.13-kuttl-parallel/1715361042827055104/build-log.txt)</sup> 
 
 
 
